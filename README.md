@@ -13,8 +13,6 @@
 
 💬 Pergunte-me sobre segurança da informação, pentesting ou qualquer dúvida que você tenha!
 
-😄 Pronomes: ele/dele
-
 ⚡ Curiosidade: Sou apaixonado por tecnologia e adoro resolver desafios de segurança! 🔒
 
   <a href="https://www.instagram.com/felipecavalcante.ti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
