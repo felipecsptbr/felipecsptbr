@@ -1,9 +1,6 @@
 
---><!--
-**felipecsptbr/felipecsptbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-# Olá, eu sou o Felipe! 👋
+Olá, eu sou o Felipe! 👋
 
 🔭 Atualmente, sou analista de segurança e estou trabalhando em projetos relacionados a segurança de aplicações.
 
