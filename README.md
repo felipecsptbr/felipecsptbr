@@ -1,6 +1,6 @@
 
 
-Olá, eu sou o Felipe! 👋
+Olá, eu sou o Filipe! 👋
 
 🔭 Atualmente, sou analista de segurança e estou trabalhando em projetos relacionados a segurança de aplicações.
 
