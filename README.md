@@ -4,7 +4,7 @@ Olá, eu sou o Felipe! 👋
 
 🔭 Atualmente, sou analista de segurança e estou trabalhando em projetos relacionados a segurança de aplicações.
 
-🌱 Estou estudando pentest e hacking em aplicações web. Além disso, estou aprendendo PHP, HTML e CSS.
+🌱 Estou estudando pentest e hacking em aplicações web. Além disso, estou estudando PHP, HTML e CSS.
 
 🤔 Estou em busca de ajuda com técnicas avançadas de pentesting e desenvolvimento seguro.
 
